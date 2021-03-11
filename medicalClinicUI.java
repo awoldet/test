@@ -7,9 +7,7 @@ import javax.swing.border.Border ;
 import java.sql.* ;
 import oracle.jdbc.pool.OracleDataSource ;
 
-/* This code is a representation of the Medical Clinic Information System database assignment for CPS510
- * SIDE NOTE: The system will only connect to the database using the Ryerson 'RU-Secure' WiFi connection.
- * @authors: Charlene Landayan, Ivanna Francesca Rasay
+/* This code is a representation of the Medical Clinic Information System database assignment 
  */
 
 public class CPS510UI {
